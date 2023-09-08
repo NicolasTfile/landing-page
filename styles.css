@@ -96,6 +96,7 @@ footer {
 #about {
     text-align: left;
     margin-top: 2rem;
+    margin-bottom: 1rem;
 }
 
 #about p {
@@ -107,6 +108,11 @@ footer {
     display: flex;
     justify-content: center;
     margin-top: 1rem;
+}
+
+#about .btn {
+    display: flex;
+    justify-content: center;
 }
 
 #about li {
